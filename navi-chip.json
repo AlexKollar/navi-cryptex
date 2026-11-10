@@ -1,1 +1,41 @@
-{"description":"A cryptography toolkit chip for Apex: encodings, classical ciphers, hashes and extras — 22 commands, standard library only at the core.","entry":"root.py","files":["root.py","app_cryptex/__init__.py","app_cryptex/classical.py","app_cryptex/core.py","app_cryptex/encodings.py","app_cryptex/fun.py","app_cryptex/hashes.py","app_cryptex/media.py"],"format":"navi-chip/1","name":"Navi Cryptex","glyph":"key","output":"Navi Cryptex: 22 ciphers and encodings in one chip — run cryptex --test to watch it prove itself.","version":"2.0.2"}
+{
+  "description": "A cryptography toolkit chip for Apex: encodings, classical ciphers, hashes and extras — 22 commands, standard library only at the core.",
+  "entry": "root.py",
+  "files": [
+    "root.py",
+    "app_cryptex/__init__.py",
+    "app_cryptex/classical.py",
+    "app_cryptex/core.py",
+    "app_cryptex/encodings.py",
+    "app_cryptex/fun.py",
+    "app_cryptex/hashes.py",
+    "app_cryptex/media.py"
+  ],
+  "format": "navi-chip/1",
+  "name": "Navi Cryptex",
+  "output": "Navi Cryptex: 22 ciphers and encodings in one chip — run cryptex --test to watch it prove itself.",
+  "version": "2.0.3",
+  "glyph": "key",
+  "icon": [
+    "....................",
+    "....######..........",
+    "..##########........",
+    ".############.......",
+    ".####....####.......",
+    "###........###......",
+    "###........###......",
+    "###........###......",
+    ".####....####.......",
+    ".############.......",
+    "..##########........",
+    "....#######.........",
+    ".......####.........",
+    ".......####.........",
+    ".......####..####...",
+    ".......####.........",
+    ".......####..####...",
+    ".......####.........",
+    ".......####.........",
+    "...................."
+  ]
+}
