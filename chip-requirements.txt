@@ -1,0 +1,8 @@
+# Navi Cryptex runs on the Python standard library alone — the core
+# needs nothing installed. The lines below are OPTIONAL extras; only
+# the matching command uses them, and each answers honestly when its
+# package is missing. They are declared, never installed automatically.
+#
+# qrcode   — for the `qr` command (QR code rendering)
+# pillow   — companion package for qrcode image output
+# mido     — for the `midify` command (text -> MIDI file)
